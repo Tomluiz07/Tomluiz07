@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor júnior front end <br>Estou a procura de estágio.
+Desenvolvedor júnior front end.
 
 
 ## 🌐 Socials:
